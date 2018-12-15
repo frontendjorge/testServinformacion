@@ -1,1 +1,1 @@
-export const url_base_service =  "http://l-lin.github.io/angular-datatables/archives/data.json";
+export const url_base_service =  "https://l-lin.github.io/angular-datatables/archives/data.json";
